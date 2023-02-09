@@ -1,0 +1,25 @@
+
+
+#!/bin/bash
+su betty
+
+press ctlr+d
+
+chmod u+x 0-iam_betty
+cat > 0-iam_betty 
+
+
+
+#!/bin/bash
+
+su betty
+
+
+
+press ctlr+d
+
+
+
+chmod u+x 0-iam_betty
+
+
